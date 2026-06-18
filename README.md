@@ -24,13 +24,13 @@ CBI score = average of five normalised variables.
 - National average: 0.384
 
 Data source
-National Family Health Survey — NFHS-6 (2023-24)
+National Family Health Survey - NFHS-6 (2023-24)
 Ministry of Health and Family Welfare, Government of India
 
 Files
-- CBI_Index.R — full R code
-- nfhs6_cbi_data.csv — raw data for all 28 states
-- CBI_28_States_Final.png — final visualisation
+- CBI_Index.R - full R code
+- nfhs6_cbi_data.csv - raw data for all 28 states
+- CBI_28_States_Final.png - final visualisation
 
 Author
 Pavithra BS
